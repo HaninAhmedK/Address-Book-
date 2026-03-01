@@ -6,12 +6,12 @@ A robust, terminal-based application written in **C** for managing personal cont
 
 ## ✨ Key Features
 
-* [cite_start]**Persistent Storage:** Automatically saves and loads data from `addressbook.csv`.
+* **Persistent Storage:** Automatically saves and loads data from `addressbook.csv`.
 * **Comprehensive CRUD Operations:**
     * [cite_start]**Create:** Add new contacts with Name, Phone, and Email.
     * [cite_start]**Read/Search:** Find contacts by Name, Phone Number, or Email address.
-    * [cite_start]**Update:** Modify existing contact details (phone and email) selectively.
-    * [cite_start]**Delete:** Remove entries based on Name, Phone, or Email.
+    * **Update:** Modify existing contact details (phone and email) selectively.
+    * **Delete:** Remove entries based on Name, Phone, or Email.
 * [cite_start]**Batch Listing:** View all stored contacts in a clean, formatted list.
 * [cite_start]**Data Integrity:** Includes checks for full contact books (100 contact limit) and missing records.
 
