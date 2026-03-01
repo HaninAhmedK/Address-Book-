@@ -1,6 +1,6 @@
 # C-AddressBook: A Persistent CLI Contact Manager
 
-A robust, terminal-based application written in **C** for managing personal contacts. [cite_start]This project demonstrates core low-level programming concepts including **file I/O**, **structs**, and **CRUD logic**. Unlike simple memory-only programs, this tool ensures your data persists across sessions by synchronizing with a local `.csv` database.
+A robust, terminal-based application written in **C** for managing personal contacts. This project demonstrates core low-level programming concepts including **file I/O**, **structs**, and **CRUD logic**. Unlike simple memory-only programs, this tool ensures your data persists across sessions by synchronizing with a local `.csv` database.
 
 ---
 
