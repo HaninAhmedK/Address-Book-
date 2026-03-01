@@ -8,20 +8,20 @@ A robust, terminal-based application written in **C** for managing personal cont
 
 * **Persistent Storage:** Automatically saves and loads data from `addressbook.csv`.
 * **Comprehensive CRUD Operations:**
-    * [cite_start]**Create:** Add new contacts with Name, Phone, and Email.
-    * [cite_start]**Read/Search:** Find contacts by Name, Phone Number, or Email address.
+    * **Create:** Add new contacts with Name, Phone, and Email.
+    * **Read/Search:** Find contacts by Name, Phone Number, or Email address.
     * **Update:** Modify existing contact details (phone and email) selectively.
     * **Delete:** Remove entries based on Name, Phone, or Email.
-* [cite_start]**Batch Listing:** View all stored contacts in a clean, formatted list.
-* [cite_start]**Data Integrity:** Includes checks for full contact books (100 contact limit) and missing records.
+* **Batch Listing:** View all stored contacts in a clean, formatted list.
+* **Data Integrity:** Includes checks for full contact books (100 contact limit) and missing records.
 
 ---
 
 ## 🛠️ Technical Stack
 
-* [cite_start]**Language:** C (C99/C11).
+* **Language:** C (C99/C11).
 * **Data Structure:** `struct` based records for organized data handling.
-* [cite_start]**Storage Format:** CSV (Comma Separated Values) for easy external viewing and portability.
+* **Storage Format:** CSV (Comma Separated Values) for easy external viewing and portability.
 * **Build Tool:** GNU Make.
 
 ---
@@ -37,4 +37,4 @@ A robust, terminal-based application written in **C** for managing personal cont
 2. Open your terminal in the project directory.
 3. Build and run the project using the provided Makefile:
    ```bash
-   make run
+   make 
